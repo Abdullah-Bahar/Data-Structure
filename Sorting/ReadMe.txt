@@ -1,0 +1,1 @@
+* giris.txt dosyasında verilen takım adları ve puanları karşılaştırılarak yüksekten küçüğe doğru bir sıralama yapılarak hem ekrana hem de cikis.txt dosyasına yazdıran bir program.  
