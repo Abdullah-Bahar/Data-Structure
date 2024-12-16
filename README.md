@@ -1,1 +1,1 @@
-Üniversitede C++ ile işlediğimiz veri yapıları dersinde ödev olarak yaptığım projeler
+Üniversitede C++ ile işlediğimiz veri yapıları dersinde geliştirdiğim projeler.
